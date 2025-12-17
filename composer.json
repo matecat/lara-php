@@ -1,8 +1,7 @@
 {
-    "name": "translated/lara-sdk",
+    "name": "matecat/lara-php",
     "type": "library",
-    "version": "1.3.0",
-    "description": "Official Lara SDK for PHP",
+    "description": "Matecat Lara SDK for PHP",
     "authors": [
         {
             "name": "Translated",
